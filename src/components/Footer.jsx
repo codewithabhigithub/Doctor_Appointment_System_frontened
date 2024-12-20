@@ -67,7 +67,7 @@ const Footer = () => {
         </div>
         <div className="footer-bottom">
           Copy Right
-          © {new Date().getFullYear()}
+          © {new Date().getFullYear()} Codewithabhi (Abhishek Gupta)
         </div>
       </footer>
     </>
